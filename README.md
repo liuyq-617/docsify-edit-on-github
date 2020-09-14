@@ -38,4 +38,4 @@ A plugin for docsify to generate a `edit on github` button on every pages. click
 
 [Result example](https://www.njleonzhang.com/vue-data-tables/#/en-us/basic)
 
-testjenkins!
+  
